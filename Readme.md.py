@@ -1,0 +1,1 @@
+Esse projeto foi feito para práticar python básico, jogos simples com som, listas e tuplas.
